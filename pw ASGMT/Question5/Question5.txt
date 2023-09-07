@@ -1,0 +1,22 @@
+Question5--->What is th: DOCTYPE D:claration in HTML
+
+
+
+In HTML (Hypertext Markup Language), the <!DOCTYPE> declaration (often referred to as a DOCTYPE declaration)
+ is an essential part of the document structure. It is not written as "th: DOCTYPE D:claration" but rather as
+ <!DOCTYPE>. This declaration specifies the version of HTML or XML that the document is using, and it helps the web browser understand how to interpret and render the content of the page correctly.
+
+The <!DOCTYPE> declaration typically appears at the very beginning of an HTML document,
+ before the <html> tag. Here's a basic example of a <!DOCTYPE> declaration for HTML5:
+
+html
+Copy code
+<!DOCTYPE html>
+<html>
+  <!-- The rest of your HTML document goes here -->
+</
+
+
+n this example, <!DOCTYPE html> tells the browser that the document is using HTML5, the latest version of the HTML specification.
+ Different versions of HTML have specific <!DOCTYPE> declarations that you should use to ensure that the browser renders the page 
+according to the appropriate standards.
